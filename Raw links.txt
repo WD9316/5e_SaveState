@@ -22,3 +22,45 @@ https://raw.githubusercontent.com/williamdelfs-coder/SaveState5e/refs/heads/main
 
 https://raw.githubusercontent.com/williamdelfs-coder/SaveState5e/refs/heads/main/subclass_progression.txt
 
+Weapons and armor: https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e-weapons-armor.csv
+
+spells: https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e-spells.csv 
+
+spelllist: https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e-spelllist.csv
+
+sections:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e-sections.csv
+
+Planes:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e-planes.csv
+
+monsters:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e-monsters.csv
+
+items:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e-feats.csv
+
+conditions:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e-conditions.csv
+
+classes-races-background:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e-classes-races-background.csv
+
+magicitems:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e%20-%20magic%20items.csv
+
+index_meta:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/index_meta.csv
+
+Feats:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/5e-feats.csv
+
+Subclass progression:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/subclass_progression.csv
+
+class_progression:
+https://raw.githubusercontent.com/WD9316/5e_SaveState/refs/heads/main/class_progression.csv
+
+
+
+
